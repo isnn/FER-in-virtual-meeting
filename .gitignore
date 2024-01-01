@@ -1,0 +1,13 @@
++++/
+pkl/*
+private/
+logs/*
+
+
+implementation/detected_eff0005/*
+!implementation/detected_eff0005/frame_test_0000.jpg
+
+implementation/frames/*
+
+implementation/video/streamMeet1.mp4
+
